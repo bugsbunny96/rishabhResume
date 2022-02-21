@@ -1,6 +1,0 @@
-this is my cv.
-
-<ul>
-    <li>Strong hold on Writing, Execution & Reviewing of Test Cases</li>
-    <li>Good knowledge over Computability, Smoke, Functional, Integration & System Testing</li>
-</ul>
